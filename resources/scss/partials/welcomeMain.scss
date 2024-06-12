@@ -1,0 +1,87 @@
+.welcome-col{
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.bg-my{
+    background-image: url(/public/layered-waves-haikei.svg);
+    background-size: cover;
+    color: whitesmoke;
+
+}
+
+.welcome-section{
+    overflow-y: hidden;
+    overflow-x: hidden;
+
+
+}
+
+.welcome-info{
+    margin-top: 30%;
+    font-size: 40px;
+
+}
+
+.welcome-1{
+    position: absolute;
+    top: 42%;
+    right: 20%;
+}
+
+.welcome-2{
+    position: absolute;
+    top: 50%;
+    right: 23%;
+}
+
+.welcome-3{
+    position: absolute;
+    top: 50%;
+    right: 15%;
+}
+
+.welcome-4{
+    position: absolute;
+    top: 57%;
+    right: 20%;
+}
+
+
+
+
+.welcome-project{
+    font-size: 65px;
+    position: relative;
+    // font-family: "Bebas Neue", sans-serif;
+    // font-weight: 400;
+    // font-style: normal;
+
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+
+    // font-family: "Quicksand", sans-serif;
+    // font-optical-sizing: auto;
+    // font-weight: 400;
+    // font-style: normal;
+
+    // font-family: "Shadows Into Light", cursive;
+    // font-weight: 400;
+    // font-style: normal;
+
+    // font-family: "Nunito", sans-serif;
+    // font-optical-sizing: auto;
+    // font-weight: 400;
+    // font-style: normal;
+
+    // font-family: "Playfair Display", serif;
+    // font-optical-sizing: auto;
+    // font-weight: 400;
+    // font-style: normal;
+
+}
